@@ -45,4 +45,16 @@ class pid {
         previous_time = current_time;
         return output;
     }
+
+    double getParam(char* param) {
+        if (param == "ki") {
+            return ki;
+        } else if (param == "kp") {
+            return kp;
+        } else if (param == "kd") {
+            return kd;
+        } else {
+            return 0;
+        }
+    }
 };
