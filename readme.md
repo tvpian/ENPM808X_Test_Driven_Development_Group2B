@@ -3,6 +3,6 @@
 
 ### Part - 1:
 
-**Driver:** Tharun V. Puthanveettil
+**Driver:** Tharun V. Puthanveettil (tvpian@umd.edu)
 
 **Navigartor:** Jay Prajapati (jayp@umd.edu)
