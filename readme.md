@@ -9,9 +9,9 @@
 
 ## Part 2:
 
-**Driver:** Joshua Gomes (jgomes14@umd.edu) 
+**Driver:** Venkata sai ram polina (sairamp@umd.edu) 
 
-**Navigator:** Venkata sai ram polina (sairamp@umd.edu)
+**Navigator:** Joshua Gomes (jgomes14@umd.edu)
 
 
 # Instructions to the run the code
