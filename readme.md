@@ -1,13 +1,13 @@
 # ENPM808X: Test Driven Development Exercise (Group 2)
 
 
-### Part - 1:
+## Part - 1:
 
 **Driver:** Tharun V. Puthanveettil (tvpian@umd.edu)
 
 **Navigator:** Jay Prajapati (jayp@umd.edu)
 
-## Part 2: (Pair B)
+## Part 2:
 
 **Driver:** Joshua Gomes (jgomes14@umd.edu) 
 
